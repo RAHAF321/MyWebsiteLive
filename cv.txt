@@ -1,0 +1,127 @@
+                 This is my cv
+
+Rahaf Perween
+rahafperween@gmail.com
++91 7763088668
+Bangalore, Jamshedpur
+
+EDUCATION
+ 
+           Bachelor of Technology (B.Tech), Computer Science & Engineering
+           S J B Institute Of Technology
+           2019 - 2023
+           CGPA: 9.19/10
+ 
+           Senior Secondary (XII), Science
+           Motilal Nehru Public School Jamshedpur
+           (ICSE board)
+           Year of completion: 2019
+           CGPA: 9.16/10
+ 
+           Secondary (X)
+           Motilal Nehru Public School Jamshedpur
+           (ICSE board)
+           Year of completion: 2017
+           CGPA: 9.59/10
+           
+
+POSITIONS OF RESPONSIBILITY
+ 
+           Leading a team of two. It is a Modern Housing Project base on the concept of Computer graphics
+           Leading a team of two in Android Development project TodoApp
+           Led a team of two. Topic of project was STUDENT RESULT ANALYSIS DATABASE.
+           Led a team of 5 .It was a team for mini project on TIC TAC TOE GAME.
+
+
+TRAININGS/ COURSES
+ 
+           Programming In Java
+           NPTEL, Online
+           Jul 2021 - Oct 2021
+           Received Elite +Silver
+ 
+           Introduction To Algorithms And Analysis
+           NPTEL, Online
+           Jul 2021 - Oct 2021
+           Received Elite
+ 
+           Problem Solving Through Programming In C
+           NPTEL, Online
+           Sep 2020 - Dec 2020
+           Received Elite+Silver
+
+
+ACADEMICS/ PERSONAL PROJECTS
+ 
+           STUDENT RESULT ANALYSIS DATABASE
+           Nov 2021 - Feb 2022
+           this allow end user to perform the insert, update ,delete and view the content of data base.In this project HTML, CSS is used for creating the GUI page, mySQL as the database part and php is used for connection of front end and back end.
+ 
+           TIC TAC TOE GAME
+           Jul 2021 - Aug 2021
+           Tic Tac Toe is a simple game that involve 2 player at a time. In the development of this project the Concept of JButton class is used to create a labeled button and result in some action when the button is pushed. and JToggle Button is used.
+ 
+           ToDoAPP
+           May 2022 - Present
+           Android Development project to implement the insert, delete, update operations in development of android app. Also to add short cut for delete and update operation.
+ 
+           MODERN HOUSING (3D GRAPHICAL VIEW OF HOUSE)
+           May 2022 - Present
+           Project to implement the concepts of Computer Graphics.User can view and move accross the house in 3D form. Useful in interior designing and to view the house before construction.
+          
+
+
+SKILLS
+ 
+            C Programming
+            Advanced
+ 
+            Java
+            Advanced
+ 
+            Data Structures
+            Advanced
+ 
+            Algorithms
+            Advanced
+ 
+            Python
+            Intermediate
+ 
+            MySQL
+            Intermediate
+ 
+            Linux
+            Beginner
+ 
+            HTML
+            Advanced
+ 
+            CSS
+            Advanced
+ 
+            Android
+            Intermediate
+ 
+            JavaScript
+            Intermediate
+ 
+            J2EE
+            Intermediate
+ 
+            PHP
+            Intermediate
+
+
+
+ACCOMPLISHMENTS/ ADDITIONAL DETAILS
+ 
+            Secured 1st rank among 540 students in 1st year final end semester examination.
+            (2019-2020)
+            Recipient of International Scholarship. (2019- )
+            Secured Second position in school final examination, received certificate and medal (2018)
+            Secured a position in top ten category in school ICSE Examination and received a cash award.
+            (2017)
+            Secured first position in school final examination, received certificate and medal (2016)
+            
+                      
