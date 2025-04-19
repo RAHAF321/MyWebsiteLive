@@ -9,7 +9,15 @@
 </head>
 <body>
     <div class="container">
-        <div class="sidebar sidebarGo">
+        <div id="sidebar-container"></div>
+        <script>
+            fetch('Components/sidebar.html')
+                .then(response => response.text())
+                .then(data => {
+                document.getElementById('sidebar-container').innerHTML = data;
+                });
+            </script>
+        <!-- <div class="sidebar sidebarGo">
          <nav>
             <ul>
                 <li><a href="/">Home</a></li>
@@ -26,7 +34,7 @@
                 <li><a href="https://rahafperween2.netlify.app/" target="_blank" >Portfolio</a></li>
             </ul>
         </nav>
-    </div>
+    </div> -->
     <div class="main">
         <div class="hamburger">
             <img class="ham" src="Images/ham.jpeg" alt="" width="23">
