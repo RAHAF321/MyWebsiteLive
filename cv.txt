@@ -23,6 +23,24 @@ EDUCATION
            (ICSE board)
            Year of completion: 2017
            CGPA: 9.59/10
+
+WORK EXPERIENCE
+        SAP LABS INDIA PVT. LTD.
+        Associate Developer-Cloud Native Full Stack
+            March 2025 - Present
+            Working on Insights topics of SAP Digital Manufacturing, DataBricks, K8s, Docker, Java-SpringBoot, Python, unit test, Code Coverage, SonarQube
+        Scholar@SAP SAP-HealthTech : SpringBoot, Cloud foundry deployment
+            Jan-2025 - March 2025
+        Scholar@SAP C4C CRM
+            Jun-2024 - Dec-2024
+            Java SpringBoot, API Validation Task, unit test, Bug fixes on Angular UI ,Playwright UI Automation Test
+        InnventForScholars-2024
+            April 2024
+            Backend work, React UI, AI Promt engineering,POC RAG Approach Model of AI .Secured 3rd Position and award money of 1 Lac
+        Scholar@SAP SAP Retail
+            Aug 2023 - Mar 2024
+            SAP UI5, unit test case,ABAP, DashBoard Using React, Customer & Internal
+            Incidents, BugFixes in ABAP and UI5 code, Participated in Hackathon
            
 
 POSITIONS OF RESPONSIBILITY
