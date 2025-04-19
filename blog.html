@@ -9,24 +9,16 @@
 </head>
 <body>
     <div class="container">
-        <div class="sidebar sidebarGo">
-         <nav>
-            <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/intro.html">My Intro</a></li>
-                <li><a href="/projects.html">Projects</a></li>
-                <li><a href="/blog.html">Blog</a></li>
-                <li><a href="/contact.html">Contact Me</a></li>
-                <li><a href="https://leetcode.com/rahafperween/" target="_blank" Style="color:orange">LeetCode</a></li>
-                <li><a href="https://www.youtube.com/channel/UC-IySvMM4sr2HeWhVlYM3zw" target="_blank" Style="color:red">YouTube</a></li>
-                <li><a href="https://auth.geeksforgeeks.org/user/rahafperween/practice" target="_blank" Style="color:rgb(3, 218, 99)">GeeksForGeeks</a></li>
-                <li><a href="https://github.com/RAHAF321" target="_blank" Style="color:rgb(102, 95, 94)">GitHub</a></li>
-                <li><a href="https://www.codingninjas.com/codestudio/profile/rahaf321" target="_blank" Style="color:rgb(233, 132, 2)">Code Studio</a></li>
-                <li><a href="https://www.linkedin.com/in/rahaf-perween-7ab7b71aa/" target="_blank" Style="color:rgb(55, 174, 243)">Linkedin</a></li>
-                <li><a href="https://rahafperween2.netlify.app/" target="_blank" >Portfolio</a></li>
-            </ul>
-        </nav>
-    </div>
+
+      <div id="sidebar"></div>
+      <script>
+        fetch('Components/sidebar.html')
+            .then(response => response.text())
+            .then(data => {
+            document.getElementById('sidebar').innerHTML = data;
+            });
+        </script>
+
     <div class="main">
         <div class="hamburger">
             <img class="ham" src="Images/ham.jpeg" alt="" width="23">
@@ -77,32 +69,13 @@
 </div>
 </div>
 <script src="script.js"></script>
-<section class="footer">
-  <h3 style="text-align: center;">Rahaf-Perween</h3><br><br>
-  <p style="text-align: center;"> Web Developer, Competitive Programming enthusiast | Problem Solver | CSE '23</p>
-  <div class="social" style="text-align: center;"><br><br>
-  <a href="#"><i class="fab"></i></a>
-  <a href="#"><i class="fab" ></i></a>
-  <a href="#"><i class="fab"></i></a>
-  <a href="#"><i class="fab"></i></a>
-  <a href="#"><i class="fab"></i></a>
-  <a href="#"><i class="fab"></i></a>
-<ul class="list">
-  <br><br>
-  <li><a class="links" href="#">Home</a></li>
-  <li><a class="links" href="https://github.com/RAHAF321" target="_blank">GitHub</li>
-  <li><a class="links" href="https://www.linkedin.com/in/rahaf-perween-7ab7b71aa/" target="_blank">Linkedin</li>
-  <li><a class="links" href="https://rahafperween2.netlify.app/" target="_blank">MyPortfolio</li>
-  <li><a class="links" href="https://leetcode.com/rahafperween/" target="_blank">leetCode</li>
-  <li><a class="links" href="https://auth.geeksforgeeks.org/user/rahafperween/practice" target="_blank">GFG</li>
-  <li><a class="links" href="https://www.codingninjas.com/codestudio/profile/rahaf321" target="_blank">CodeStudio</li>
-  <li><a class="links" href="https://www.youtube.com/channel/UC-IySvMM4sr2HeWhVlYM3zw" target="_blank">Youtube</li>
-</ul>
-</div>
-<br>
-<div class="fotter-bottom" style="text-align: center;"><br><br>
-  <p>copyright &copy;2022 Rahaf-Perween. designed by <span>rahafperween</span></p>
-</div>
-</section>
+  <div id="footer"></div>
+    <script>
+      fetch('Components/footer.html')
+        .then(response => response.text())
+        .then(data => {
+          document.getElementById('footer').innerHTML = data;
+        });
+    </script>
 </body>
 </html>
